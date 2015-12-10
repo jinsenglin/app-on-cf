@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-php
+  domain: jinsenglin.10.5.50.140.xip.io
+  memory: 128M
+  timeout: 180

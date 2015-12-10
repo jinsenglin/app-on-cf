@@ -1,0 +1,5 @@
+---
+applications:
+- name: hello-go
+  domain: jinsenglin.10.5.50.140.xip.io
+  memory: 64M

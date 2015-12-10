@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-html
+  domain: jinsenglin.10.5.50.140.xip.io
+  memory: 32M
+  timeout: 180

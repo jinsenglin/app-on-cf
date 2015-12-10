@@ -1,0 +1,4 @@
+---
+applications:
+- name: hello-python
+  domain: jinsenglin.10.5.50.140.xip.io

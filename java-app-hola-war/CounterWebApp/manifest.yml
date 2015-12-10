@@ -1,0 +1,8 @@
+---
+applications:
+- name: hello-java-war
+  domain: jinsenglin.10.5.50.140.xip.io
+  memory: 1G
+  timeout: 120
+  path: ./target/CounterWebApp.war
+  buildpack: java_buildpack

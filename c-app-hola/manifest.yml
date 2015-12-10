@@ -1,0 +1,8 @@
+---
+applications:
+- name: hello-c
+  buildpack: https://hub.jazz.net/git/FcoRamos/BuildpackC
+  memory: 64M
+  instances: 1
+  path: . 
+  domain: jinsenglin.10.5.50.140.xip.io
